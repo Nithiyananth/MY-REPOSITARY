@@ -1,7 +1,7 @@
 # MY-REPOSITARY
 new-item -path E: -name "test1.txt" -itemtype "file" -value "HELLO NITHI 
 HOW ARE YOU 
-OKAY, SEE YOU "
+OKAY, SEE U "
 new-item -path E: -name "test2.txt" -itemtype "file" -value "HAI 
 I'M GOOD 
 BYE "
@@ -13,3 +13,5 @@ for ($i=0; $i -lt $total; $i++)
 {
  ($file1[$i] + $file2[$i]) | Out-File file3.txt -append
 }
+
+skdbsakfbksda
